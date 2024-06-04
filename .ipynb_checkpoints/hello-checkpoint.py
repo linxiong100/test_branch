@@ -1,2 +1,2 @@
 print('hello branch')
-print('hello new branch from Lin!')
+print('hello this is main branch!')
